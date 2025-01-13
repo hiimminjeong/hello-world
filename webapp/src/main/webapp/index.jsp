@@ -1,6 +1,10 @@
 <form action="action_page.php">
   <div class="container">
+<<<<<<< HEAD
 	  <h1>New user Register for DevOps Learning hello~~~</h1>
+=======
+    <h1>New user Register for DevOps Learning 2025 MJ - 20250113 test!!</h1>
+>>>>>>> 58e594d (20250113 test)
     <p>Please fill in this form to create an account.</p>
     <hr>
      
